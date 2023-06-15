@@ -103,7 +103,7 @@
 }
 
 .devPic img{
-    width: 200px;
+    width: 400px;
     height: 291 px;
     border-radius: 25%;
 }
@@ -205,6 +205,6 @@
 
     }
     .devPic{
-        display: none;
+        display: block;
     }
 }
